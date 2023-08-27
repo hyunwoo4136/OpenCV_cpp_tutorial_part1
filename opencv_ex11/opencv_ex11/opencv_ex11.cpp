@@ -43,8 +43,8 @@ int main()
 
 */
 
-/*
-// 허프 원 변환(에지의 그레디언트를 이용해 원 검출)
+///*
+// 확률적 허프 선 변환
 
 #include <opencv2/opencv.hpp>
 
@@ -77,9 +77,9 @@ int main()
     return 0;
 }
 
-*/
+//*/
 
-///*
+/*
 // 허프 원 변환(에지의 그레디언트를 이용해 원 검출)
 
 #include <opencv2/opencv.hpp>
@@ -118,4 +118,4 @@ int main()
     return 0;
 }
 
-//*/
+*/
