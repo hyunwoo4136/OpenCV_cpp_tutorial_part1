@@ -1,5 +1,5 @@
 # OpenCV_cpp_tutorial_part1
-OpenCV C++ tutorial projects part1
+OpenCV C++ tutorial projects part1 in Visual Studio
 
 ### 1. handling images and videos
   - loading and displaying images
